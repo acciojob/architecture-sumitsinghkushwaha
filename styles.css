@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+*{
+	width:1100px;
+}
+.table1{
+	border:5px;
+}
+.first{
+	width:200px;
+}
+.middle{
+	width:600px;
+}
+.last{
+	width:200px;
+}
