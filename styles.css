@@ -1,16 +1,16 @@
 /*  your css code here. If applicable */
-*{
+body{
 	width:1100px;
 }
 .table1{
 	border:5px;
 }
-.first{
+/* .first{
 	width:200px;
-}
+} */
 .middle{
 	width:600px;
-}
+/* }
 .last{
 	width:200px;
-}
+} */
